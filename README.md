@@ -1,5 +1,5 @@
 
-Hi there! 👋, I'm Mahidhar Reddy Vaka
+Hi there! 👋, I'm Tharun Chowdary Malepati.
 <h3 align="center">Machine Learning and Data Science Engineer</h3>
 <p align="center">
     <img src="https://komarev.com/ghpvc/?username=obi-reddy&label=Profile%20views&color=0e75b6&style=flat" alt="obi-reddy" />
@@ -8,9 +8,9 @@ Hi there! 👋, I'm Mahidhar Reddy Vaka
 
 💬 Ask me about Machine Learning, Data Science, Python, R, SQL, and Deep Learning
 
-📫 How to reach me mahidhar1337@gmail.com
+📫 How to reach me tmalepati@crimson.ua.edu
 
-⚡ Fun fact I am also a fan of outdoor activities like hiking and camping
+⚡ Fun fact I am also a fan of outdoor activities like hiking and camping.
 
 <h3 align="left">Connect with me:</h3> 
 <p align="left">
@@ -18,9 +18,6 @@ Hi there! 👋, I'm Mahidhar Reddy Vaka
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
   <img src="https://icon.icepanel.io/Technology/svg/Python.svg" alt="Python" width="40" height="40"/>
-  <img src="https://icon.icepanel.io/Technology/svg/R.svg" alt="R" width="40" height="40"/>
-  <img src="https://icon.icepanel.io/Technology/svg/Java.svg" alt="Java" width="40" height="40"/>
-  <img src="https://icon.icepanel.io/Technology/svg/JavaScript.svg" alt="JavaScript" width="40" height="40"/>
   <img src="https://icon.icepanel.io/Technology/svg/SQL.svg" alt="SQL" width="40" height="40"/>
   <img src="https://icon.icepanel.io/Technology/svg/HTML5.svg" alt="HTML5" width="40" height="40"/>
   <img src="https://icon.icepanel.io/Technology/svg/CSS3.svg" alt="CSS3" width="40" height="40"/>
