@@ -1,90 +1,144 @@
-# Welcome to GitHub
 
-Welcome to GitHub—where millions of developers work together on software. Ready to get started? Let’s learn how this all works by building and publishing your first GitHub Pages website!!!!
+Hi there! 👋, I'm Mahidhar Reddy Vaka
+<h3 align="center">Machine Learning and Data Science Engineer</h3>
+<p align="center">
+    <img src="https://komarev.com/ghpvc/?username=obi-reddy&label=Profile%20views&color=0e75b6&style=flat" alt="obi-reddy" />
+</p>
+👯 I’m looking to collaborate on Machine Learning and Data Science projects
 
-## Repositories
+💬 Ask me about Machine Learning, Data Science, Python, R, SQL, and Deep Learning
 
-Right now, we’re in your first GitHub **repository**. A repository is like a folder or storage space for your project. Your project's repository contains all its files such as code, documentation, images, and more. It also tracks every change that you—or your collaborators—make to each file, so you can always go back to previous versions of your project if you make any mistakes.
+📫 How to reach me mahidhar1337@gmail.com
 
-This repository contains three important files: The HTML code for your first website on GitHub, the CSS stylesheet that decorates your website with colors and fonts, and the **README** file. It also contains an image folder, with one image file.
+⚡ Fun fact I am also a fan of outdoor activities like hiking and camping
 
-## Describe your project
+<h3 align="left">Connect with me:</h3> 
+<p align="left">
+</p>
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> 
+  <img src="https://icon.icepanel.io/Technology/svg/Python.svg" alt="Python" width="40" height="40"/>
+  <img src="https://icon.icepanel.io/Technology/svg/R.svg" alt="R" width="40" height="40"/>
+  <img src="https://icon.icepanel.io/Technology/svg/Java.svg" alt="Java" width="40" height="40"/>
+  <img src="https://icon.icepanel.io/Technology/svg/JavaScript.svg" alt="JavaScript" width="40" height="40"/>
+  <img src="https://icon.icepanel.io/Technology/svg/SQL.svg" alt="SQL" width="40" height="40"/>
+  <img src="https://icon.icepanel.io/Technology/svg/HTML5.svg" alt="HTML5" width="40" height="40"/>
+  <img src="https://icon.icepanel.io/Technology/svg/CSS3.svg" alt="CSS3" width="40" height="40"/>
+</p>
+📝 Data Science and Machine Learning:
+  <img height="42px" align="left" src="https://icon.icepanel.io/Technology/svg/Scikit-learn.svg" alt="Scikit-learn" />
+  <img height="42px" align="left" src="https://icon.icepanel.io/Technology/svg/TensorFlow.svg" alt="TensorFlow" />
+  <img height="42px" align="left" src="https://icon.icepanel.io/Technology/svg/Keras.svg" alt="Keras" />
+  <img height="42px" align="left" src="https://icon.icepanel.io/Technology/svg/PyTorch.svg" alt="PyTorch" />
+  <img height="42px" align="left" src="https://icon.icepanel.io/Technology/svg/Numpy.svg" alt="Numpy" />
+  <img height="42px" align="left" src="https://icon.icepanel.io/Technology/svg/Pandas.svg" alt="Pandas" />
+  <img height="42px" align="left" src="https://icon.icepanel.io/Technology/svg/Matplotlib.svg" alt="Matplotlib" />
+  <img height="42px" align="left" src="https://icon.icepanel.io/Technology/svg/Seaborn.svg" alt="Seaborn" />
+<br/>
+<br/>
+<br/>
+<br/>
+📝 Data Analysis and Visualization:
+  <img height="42px" align="left" src="https://icon.icepanel.io/Technology/svg/Power-BI.svg" alt="Power BI" />
+  <img height="42px" align="left" src="https://icon.icepanel.io/Technology/svg/Tableau.svg" alt="Tableau" />
+  <img height="42px" align="left" src="https://icon.icepanel.io/Technology/svg/Microsoft-Excel.svg" alt="Microsoft Excel" />
+<br/>
+<br/>
+<br/>
+<br/>
+🖼️ Deep Learning and Neural Networks:
+  <img height="42px" align="left" src="https://icon.icepanel.io/Technology/svg/Artificial-Neural-Network.svg" alt="Artificial Neural Network" />
+  <img height="42px" align="left" src="https://icon.icepanel.io/Technology/svg/Convolutional-Neural-Network.svg" alt="Convolutional Neural Network" />
+  <img height="42px" align="left" src="https://icon.icepanel.io/Technology/svg/Recurrent-Neural-Network.svg" alt="Recurrent Neural Network" />
+<br/>
+<br/>
+🛠️ DevOps Tools:
+<img height="42px" align="<p align="center">
+<img src="https://github.com/obi-reddy/obi-reddy/blob/28a8f60373006426ed6dff5ddf3d6f603281d675/Banner.gif" alt="Banner" />
 
-You are currently viewing your project's **README** file. **_README_** files are like cover pages or elevator pitches for your project. They are written in plain text or [Markdown language](https://guides.github.com/features/mastering-markdown/), and usually include a paragraph describing the project, directions on how to use it, who authored it, and more.
+</p>
+<h1 align="center">Hi 👋, I'm Mahidhar Reddy Vaka</h1>
+<h3 align="center">Machine Learning and Data Science Engineer</h3>
+<p align="left"> 
+    <img src="https://komarev.com/ghpvc/?username=obi-reddy&label=Profile%20views&color=0e75b6&style=flat" alt="obi-reddy" />
+</p>
+👯 I’m looking to collaborate on Machine Learning and Data Science projects
 
-[Learn more about READMEs](https://help.github.com/en/articles/about-readmes)
+💬 Ask me about Machine Learning, Data Science, Python, R, SQL, and Deep Learning
 
-## Your first website
+📫 How to reach me mahidhar1337@gmail.com
 
-**GitHub Pages** is a free and easy way to create a website using the code that lives in your GitHub repositories. You can use GitHub Pages to build a portfolio of your work, create a personal website, or share a fun project that you coded with the world. GitHub Pages is automatically enabled in this repository, but when you create new repositories in the future, the steps to launch a GitHub Pages website will be slightly different.
+⚡ Fun fact I am also a fan of outdoor activities like hiking and camping
 
-[Learn more about GitHub Pages](https://pages.github.com/)
+<h3 align="left">Connect with me:</h3> 
+<p align="left">
+</p>
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> 
+  <img src="https://icon.icepanel.io/Technology/svg/Python.svg" alt="Python" width="40" height="40"/>
+  <img src="https://icon.icepanel.io/Technology/svg/R.svg" alt="R" width="40" height="40"/>
+  <img src="https://icon.icepanel.io/Technology/svg/Java.svg" alt="Java" width="40" height="40"/>
+  <img src="https://icon.icepanel.io/Technology/svg/JavaScript.svg" alt="JavaScript" width="40" height="40"/>
+  <img src="https://icon.icepanel.io/Technology/svg/SQL.svg" alt="SQL" width="40" height="40"/>
+  <img src="https://icon.icepanel.io/Technology/svg/HTML5.svg" alt="HTML5" width="40" height="40"/>
+  <img src="https://icon.icepanel.io/Technology/svg/CSS3.svg" alt="CSS3" width="40" height="40"/>
+</p>
+📝 Data Science and Machine Learning:
+  <img height="42px" align="left" src="https://icon.icepanel.io/Technology/svg/Scikit-learn.svg" alt="Scikit-learn" />
+  <img height="42px" align="left" src="https://icon.icepanel.io/Technology/svg/TensorFlow.svg" alt="TensorFlow" />
+  <img height="42px" align="left" src="https://icon.icepanel.io/Technology/svg/Keras.svg" alt="Keras" />
+  <img height="42px" align="left" src="https://icon.icepanel.io/Technology/svg/PyTorch.svg" alt="PyTorch" />
+  <img height="42px" align="left" src="https://icon.icepanel.io/Technology/svg/Numpy.svg" alt="Numpy" />
+  <img height="42px" align="left" src="https://icon.icepanel.io/Technology/svg/Pandas.svg" alt="Pandas" />
+  <img height="42px" align="left" src="https://icon.icepanel.io/Technology/svg/Matplotlib.svg" alt="Matplotlib" />
+  <img height="42px" align="left" src="https://icon.icepanel.io/Technology/svg/Seaborn.svg" alt="Seaborn" />
+<br/>
+<br/>
+<br/>
+<br/>
+📝 Data Analysis and Visualization:
+  <img height="42px" align="left" src="https://icon.icepanel.io/Technology/svg/Power-BI.svg" alt="Power BI" />
+  <img height="42px" align="left" src="https://icon.icepanel.io/Technology/svg/Tableau.svg" alt="Tableau" />
+  <img height="42px" align="left" src="https://icon.icepanel.io/Technology/svg/Microsoft-Excel.svg" alt="Microsoft Excel" />
+<br/>
+<br/>
+<br/>
+<br/>
+🖼️ Deep Learning and Neural Networks:
+  <img height="42px" align="left" src="https://icon.icepanel.io/Technology/svg/Artificial-Neural-Network.svg" alt="Artificial Neural Network" />
+  <img height="42px" align="left" src="https://icon.icepanel.io/Technology/svg/Convolutional-Neural-Network.svg" alt="Convolutional Neural Network" />
+  <img height="42px" align="left" src="https://icon.icepanel.io/Technology/svg/Recurrent-Neural-Network.svg" alt="Recurrent Neural Network" />
+<br/>
+<br/>
+🛠️ DevOps Tools:
+  <img height="42px" align="left" src="https://icon.icepanel.io/Technology/svg/Git.svg" alt="Git" />
+  <img height="42px" align="left" src="https://icon.icepanel.io/Technology/svg/Docker.svg" alt="Docker" />
+  <img height="42px" align="left" src="https://icon.icepanel.io/Technology/svg/Kubernetes.svg" alt="Kubernetes" />
+  <img height="42px" align="left" src="https://icon.icepanel.io/Technology/svg/Jenkins.svg" alt="Jenkins" />
+<br/>
+<br/>
+<br/>
+<br/> 
+📚 Databases:
+  <img height="42px" align="left" src="https://icon.icepanel.io/Technology/svg/MySQL.svg" alt="MySQL" />
+  <img height="42px" align="left" src="https://icon.icepanel.io/Technology/svg/Oracle.svg" alt="Oracle" />
+  <img height="42px" align="left" src="https://icon.icepanel.io/Technology/svg/PostgresSQL.svg" alt="PostgresSQL" />
+<br/>
+<br/>
+💻 IDE:
+  <img height="42px" align="left" src="https://icon.icepanel.io/Technology/svg/Visual-Studio-Code-%28VS-Code%29.svg" alt="Visual Studio Code" />
+  <img height="42px" align="left" src="https://icon.icepanel.io/Technology/svg/Jupyter.svg" alt="Jupyter Notebook" />
+  <img height="42px" align="left" src="https://icon.icepanel.io/Technology/svg/RStudio.svg" alt="RStudio" />
+<br/>
+<br/>
+<br/>
+<br/>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=obi-reddy&theme=midnight-purple"/>
+</p> 
+<---------------------------------------------✍️ Random Data Science Quotes--------------------------------------------->
 
-## Rename this repository to publish your site
-
-We've already set-up a GitHub Pages website for you, based on your personal username. This repository is called `hello-world`, but you'll rename it to: `username.github.io`, to match your website's URL address. If the first part of the repository doesn’t exactly match your username, it won’t work, so make sure to get it right.
-
-Let's get started! To update this repository’s name, click the `Settings` tab on this page. This will take you to your repository’s settings page. 
-
-![repo-settings-image](https://user-images.githubusercontent.com/18093541/63130482-99e6ad80-bf88-11e9-99a1-d3cf1660b47e.png)
-
-Under the **Repository Name** heading, type: `username.github.io`, where username is your username on GitHub. Then click **Rename**—and that’s it. When you’re done, click your repository name or browser’s back button to return to this page.
-
-<img width="1039" alt="rename_screenshot" src="https://user-images.githubusercontent.com/18093541/63129466-956cc580-bf85-11e9-92d8-b028dd483fa5.png">
-
-Once you click **Rename**, your website will automatically be published at: https://your-username.github.io/. The HTML file—called `index.html`—is rendered as the home page and you'll be making changes to this file in the next step.
-
-Congratulations! You just launched your first GitHub Pages website. It's now live to share with the entire world
-
-## Making your first edit
-
-When you make any change to any file in your project, you’re making a **commit**. If you fix a typo, update a filename, or edit your code, you can add it to GitHub as a commit. Your commits represent your project’s entire history—and they’re all saved in your project’s repository.
-
-With each commit, you have the opportunity to write a **commit message**, a short, meaningful comment describing the change you’re making to a file. So you always know exactly what changed, no matter when you return to a commit.
-
-## Practice: Customize your first GitHub website by writing HTML code
-
-Want to edit the site you just published? Let’s practice commits by introducing yourself in your `index.html` file. Don’t worry about getting it right the first time—you can always build on your introduction later.
-
-Let’s start with this template:
-
-```
-<p>Hello World! I’m [username]. This is my website!</p>
-```
-
-To add your introduction, copy our template and click the edit pencil icon at the top right hand corner of the `index.html` file.
-
-<img width="997" alt="edit-this-file" src="https://user-images.githubusercontent.com/18093541/63131820-0794d880-bf8d-11e9-8b3d-c096355e9389.png">
-
-
-Delete this placeholder line:
-
-```
-<p>Welcome to your first GitHub Pages website!</p>
-```
-
-Then, paste the template to line 15 and fill in the blanks.
-
-<img width="1032" alt="edit-githuboctocat-index" src="https://user-images.githubusercontent.com/18093541/63132339-c3a2d300-bf8e-11e9-8222-59c2702f6c42.png">
-
-
-When you’re done, scroll down to the `Commit changes` section near the bottom of the edit page. Add a short message explaining your change, like "Add my introduction", then click `Commit changes`.
-
-
-<img width="1030" alt="add-my-username" src="https://user-images.githubusercontent.com/18093541/63131801-efbd5480-bf8c-11e9-9806-89273f027d16.png">
-
-Once you click `Commit changes`, your changes will automatically be published on your GitHub Pages website. Refresh the page to see your new changes live in action.
-
-:tada: You just made your first commit! :tada:
-
-## Extra Credit: Keep on building!
-
-Change the placeholder Octocat gif on your GitHub Pages website by [creating your own personal Octocat emoji](https://myoctocat.com/build-your-octocat/) or [choose a different Octocat gif from our logo library here](https://octodex.github.com/). Add that image to line 12 of your `index.html` file, in place of the `<img src=` link.
-
-Want to add even more code and fun styles to your GitHub Pages website? [Follow these instructions](https://github.com/github/personal-website) to build a fully-fledged static website.
-
-![octocat](./images/create-octocat.png)
-
-## Everything you need to know about GitHub
-
-Getting started is the hardest part. If there’s anything you’d like to know as you get started with GitHub, try searching [GitHub Help](https://help.github.com). Our documentation has tutorials on everything from changing your repository settings to configuring GitHub from your command line.
+<!--![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)-->
+<p align=center>
+  <img align="center" width=60% src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko" />
+<p>
