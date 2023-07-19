@@ -64,8 +64,7 @@
 <br/> 
 📚 Databases:
   <img height="42px" align="left" src="https://icon.icepanel.io/Technology/svg/MySQL.svg" alt="MySQL" />
-  <img height="42px" align="left" src="https://icon.icepanel.io/Technology/svg/Oracle.svg" alt="Oracle" />
-  <img height="42px" align="left" src="https://icon.icepanel.io/Technology/svg/PostgresSQL.svg" alt="PostgresSQL" />
+  
 <br/>
 <br/>
 💻 IDE:
