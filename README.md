@@ -27,7 +27,6 @@
   <img src="https://icon.icepanel.io/Technology/svg/CSS3.svg" alt="CSS3" width="40" height="40"/>
 </p>
 📝 Data Science and Machine Learning:
-  <img height="42px" align="left" src="https://icon.icepanel.io/Technology/svg/Scikit-learn.svg" alt="Scikit-learn" />
   <img height="42px" align="left" src="https://icon.icepanel.io/Technology/svg/TensorFlow.svg" alt="TensorFlow" />
   <img height="42px" align="left" src="https://icon.icepanel.io/Technology/svg/Keras.svg" alt="Keras" />
   <img height="42px" align="left" src="https://icon.icepanel.io/Technology/svg/PyTorch.svg" alt="PyTorch" />
