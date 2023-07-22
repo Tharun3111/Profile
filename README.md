@@ -44,7 +44,7 @@
   <img height="42px" align="left" src="https://icon.icepanel.io/Technology/svg/Microsoft-Excel.svg" alt="Microsoft Excel" />
 <br/>
 <br/>
-<br/>
+<br/> 
 <br/>
 🖼️ Deep Learning and Neural Networks:
   <img height="42px" align="left" src="https://icon.icepanel.io/Technology/svg/Artificial-Neural-Network.svg" alt="Artificial Neural Network" />
