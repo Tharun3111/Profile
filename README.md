@@ -17,7 +17,7 @@
 <h3 align="left">Connect with me:</h3> https://www.linkedin.com/in/tharun-chowdary-malepati-aa5790183
 <p align="left">
 </p>
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Languages and Tools:</h3>  
 <p align="left"> 
     <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png" alt="C" width="40" height="40"/>
 
