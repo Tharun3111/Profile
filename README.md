@@ -6,7 +6,7 @@
 <p align="left"> 
     <img src="https://komarev.com/ghpvc/?username=obi-reddy&label=Profile%20views&color=0e75b6&style=flat" alt="obi-reddy" />
 </p>
-👯 I’m looking to collaborate on Machine Learning and Data Science projects
+👯 I’m looking to collaborate on Machine Learning and Data Science projects    
 
 💬 Ask me about Machine Learning, Data Science, Python, SQL, and Deep Learning
 
